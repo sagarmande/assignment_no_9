@@ -1,0 +1,4 @@
+def exponent(N, P):
+    return N ** P
+print(exponent(5, 2))  # Output: 25
+print(exponent(2, 5))  # Output: 32
