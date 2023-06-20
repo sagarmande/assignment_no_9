@@ -1,0 +1,4 @@
+def findNthTerm(a, d, n):
+    return a + (n - 1) * d
+print(findNthTerm(2, 1, 5))  # Output: 6
+print(findNthTerm(5, 2, 10))  # Output: 23
